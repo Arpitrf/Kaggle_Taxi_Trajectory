@@ -13,8 +13,8 @@ function frameworkpython {
 ```
 
 2. TensorFlow:
-   -Python 3.7 does not work.
-   -brew unlink python
-   -Installs Python 3.6.5 - brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/f2a764ef944b1080be64bd88dca9a1d80130c558/Formula/python.rb
+   - Python 3.7 does not work.
+   - brew unlink python
+   - Installs Python 3.6.5 - brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/f2a764ef944b1080be64bd88dca9a1d80130c558/Formula/python.rb
 
 3. Do not create virtualenv behind proxy. (Virtualenv won't be created)
